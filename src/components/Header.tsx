@@ -1,5 +1,5 @@
 
-import {Flex, Box} from '@chakra-ui/react'
+import {Flex, Image, Box} from '@chakra-ui/react'
 
 export function Header(){
 
@@ -13,10 +13,7 @@ export function Header(){
             alignItems="center"
             justify="center"
         >
-            <Box>
-                <img src="/images/Logo.svg" alt="logo"/>
-            </Box>
+            <Image src="/images/Logo.svg" alt="logo"/>
         </Flex>
-
     );
 }
