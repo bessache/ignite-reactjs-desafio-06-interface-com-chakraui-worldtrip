@@ -9,7 +9,6 @@ export function Header(){
             as="header" 
             maxWidth={1440}
             h="100"
-            mt="2"
             alignItems="center"
             justify="center"
         >

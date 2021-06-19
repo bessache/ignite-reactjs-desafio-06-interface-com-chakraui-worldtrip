@@ -34,8 +34,8 @@ export function Banner(){
                 //bg="red"
                 zIndex="1"
                 alignItems="center"
-                justifyContent='space-around'
-                px="4"
+                justifyContent='space-between'
+                px="32"
             >
                 <Flex
                     flexDirection="column"

@@ -10,7 +10,8 @@ export const theme = extendTheme({
             "300": "#999999",
         },
         highlight: {
-            "900": "#FFBA08"
+            "900": "#FFBA08",
+            "600": "#F6C851"
         },
         light: {
             "300": "#DADADA",
